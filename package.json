@@ -1,0 +1,23 @@
+{
+  "name": "test_pract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "string_length.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iqbal-Elham/Test_pract.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iqbal-Elham/Test_pract/issues"
+  },
+  "homepage": "https://github.com/Iqbal-Elham/Test_pract#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
